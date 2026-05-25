@@ -13,7 +13,7 @@
         android:id="@+id/headerView"
         android:layout_width="match_parent"
         android:layout_height="220dp"
-        android:background="@color/teal_deep"
+        android:background="#077BFF"
         app:layout_constraintTop_toTopOf="parent" />
 
     <com.google.android.material.imageview.ShapeableImageView
@@ -45,7 +45,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Selamat Siang, Shakilla!"
+        android:text="Welcome Zyy"
         android:textColor="@color/cream"
         android:textSize="22sp"
         android:textStyle="bold"
@@ -120,7 +120,7 @@
                         android:layout_width="40dp"
                         android:layout_height="40dp"
                         android:src="@drawable/ic_transaksi"
-                        app:tint="@color/teal_deep" />
+                        app:tint="@color/teal_light" />
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -141,7 +141,7 @@
                         android:layout_width="40dp"
                         android:layout_height="40dp"
                         android:src="@drawable/ic_pelanggan"
-                        app:tint="@color/teal_deep" />
+                        app:tint="@color/teal_light" />
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
