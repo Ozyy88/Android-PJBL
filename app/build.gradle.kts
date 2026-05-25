@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.shakilla.penjualan"
+    namespace = "com.store.zy"
     compileSdk {
         version = release(36)
     }
